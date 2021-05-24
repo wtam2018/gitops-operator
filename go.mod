@@ -22,5 +22,6 @@ require (
 
 replace (
 	github.com/Azure/go-autorest => github.com/Azure/go-autorest v13.3.2+incompatible // Required by OLM
+	github.com/argoproj-labs/argocd-operator => github.com/wtam2018/argocd-operator v0.0.14-0.20210524003616-d2b5b4c82124
 	k8s.io/client-go => k8s.io/client-go v0.18.2
 )
