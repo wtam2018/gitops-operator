@@ -1105,8 +1105,8 @@ github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijb
 github.com/urfave/cli v1.22.1/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/vektah/gqlparser v1.1.2/go.mod h1:1ycwN7Ij5njmMkPPAOaRFY4rET2Enx7IkVv3vaXspKw=
 github.com/willf/bitset v1.1.3/go.mod h1:RjeCKbqT1RxIR/KWY6phxZiaY1IyutSBfGjNPySAYV4=
-github.com/wtam2018/argocd-operator v0.0.14-0.20210528020126-ff38dd865dc7 h1:jCNZ1nAzzt9+L7bYDNkHIZy0v5Jy9MEJUsxSLvcwG+Q=
-github.com/wtam2018/argocd-operator v0.0.14-0.20210528020126-ff38dd865dc7/go.mod h1:FnnHlU59v18bhT0cC8eeEWSXhxzvGulJvjOpGqozeTE=
+github.com/wtam2018/argocd-operator v0.0.14-0.20210602020923-0b4e4610fe08 h1:oTF3UpmH8UThalboBwHGecya9nPRA0Ndu5qvi+UL3eE=
+github.com/wtam2018/argocd-operator v0.0.14-0.20210602020923-0b4e4610fe08/go.mod h1:FnnHlU59v18bhT0cC8eeEWSXhxzvGulJvjOpGqozeTE=
 github.com/xanzy/go-gitlab v0.15.0/go.mod h1:8zdQa/ri1dfn8eS3Ir1SyfvOKlw7WBJ8DVThkpGiXrs=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c/go.mod h1:lB8K/P019DLNhemzwFU4jHLhdvlE6uDZjXFejJXr49I=
 github.com/xdg/stringprep v0.0.0-20180714160509-73f8eece6fdc/go.mod h1:Jhud4/sHMO4oL310DaZAKk9ZaJ08SJfe+sJh0HrGL1Y=
