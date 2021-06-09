@@ -96,7 +96,7 @@ metadata:
         }
       ]
     capabilities: Basic Install
-  name: openshift-gitops-operator.v1.2.0
+  name: openshift-gitops-operator.v0.0.3
   namespace: placeholder
 spec:
   apiservicedefinitions: {}
